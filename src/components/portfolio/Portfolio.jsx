@@ -10,8 +10,9 @@ export default function Portfolio() {
                     <img src='assets/weekender.png' alt=''/>
                     </a>
                     </div>
-                <img src='assets/top5.jpeg' alt='' a href='https://github.com/browneli003/Top-5' />   
-                
+                    <a href='https://github.com/browneli003/Top-5' >
+                <img src='assets/Top5.jpeg' alt=''/>
+                </a>                  
             </div>
         </div>
     )
