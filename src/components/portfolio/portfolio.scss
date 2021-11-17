@@ -1,3 +1,14 @@
+@import "../../global.scss";
 .portfolio {
     background-color: yellow;
+
+    h2 {
+        font-size: 65px;
+        color: $mainColor;
+    }
+
+    .imgContainer {
+        width: 44%;
+        height: 600px;
+    }
 }

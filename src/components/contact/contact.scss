@@ -1,3 +1,13 @@
 .contact{
     background-color: #5e5e5e;
+    display: flex;
+
+    h3{
+        font-size: 34px;
+        color: white;
+    }
+
+    .imgContainer{
+        margin: 20px 20px;
+    }
 }
