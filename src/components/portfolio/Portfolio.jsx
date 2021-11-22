@@ -12,7 +12,10 @@ export default function Portfolio() {
                     </div>
                     <a href='https://github.com/browneli003/Top-5' >
                 <img src='assets/Top5.jpeg' alt=''/>
-                </a>                  
+                </a>     
+                <a href='https://github.com/Zunaty/dataverse'>
+                    <img src='assets/dataverse.png' alt=''/>
+                    </a>             
             </div>
         </div>
     )
